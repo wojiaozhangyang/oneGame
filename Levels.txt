@@ -1,0 +1,110 @@
+[Level 1]
+obstacle,200,460,200,350
+obstacle,800,260,200,550
+obstacle,950,610,300,200
+obstacle,1530,610,100,200
+obstacle,1530,-15,100,415
+spikes,1012,585,230,10
+spikes,1262,785,251,10
+spikes,412,785,380,10
+[Level 2]
+obstacle,-15,460,65,350
+obstacle,250,200,100,610
+obstacle,-40,70,380,20
+obstacle,300,460,250,350
+obstacle,800,460,50,350
+obstacle,800,-15,50,300
+obstacle,900,550,100,100
+obstacle,1550,-15,70,415
+obstacle,1550,600,70,210
+spikes,12,100,328,11
+spikes,562,785,220,10
+spikes,860,785,680,10
+spikes,820,440,9,10
+spikes,820,295,9,11
+[Level 3]
+obstacle,300,460,300,350
+obstacle,900,350,50,460
+obstacle,900,-20,50,210
+obstacle,1100,460,50,350
+obstacle,1100,-20,50,300
+obstacle,1450,600,200,300
+obstacle,1550,-20,100,350
+spikes,620,785,255,10
+spikes,920,330,9,10
+spikes,920,200,9,11
+spikes,1120,440,9,10
+spikes,1120,290,9,11
+spikes,960,785,130,10
+spikes,1160,785,280,10
+[Level 4]
+obstacle,-20,400,1000,50
+obstacle,200,750,50,100
+obstacle,1400,130,300,800
+obstacle,200,100,1500,50
+spikes,260,785,1130,10
+spikes,300,377,350,10
+spikes,20,463,950,11
+[Level 5]
+obstacle,200,700,400,150
+obstacle,-20,340,1700,50
+obstacle,900,550,50,350
+spikes,40,402,1530,11
+[Level 6]
+obstacle,-20,-20,250,700
+obstacle,350,200,150,800
+obstacle,231,750,70,20
+obstacle,300,130,100,900
+obstacle,1500,300,150,700
+obstacle,1500,-20,150,200
+spikes,250,600,10,8
+spikes,270,500,11,8
+spikes,250,400,10,8
+spikes,270,300,11,8
+spikes,600,15,170,11
+spikes,800,15,170,11
+spikes,1000,15,170,11
+spikes,530,785,950,10
+spikes,240,15,100,11
+[Level 7]
+obstacle,231,750,1300,1000
+obstacle,1500,100,150,800
+spikes,-20,15,1500,11
+spikes,900,15,200,11
+spikes,1900,200,11,100
+[Level 8]
+obstacle,200,100,200,800
+obstacle,500,-20,100,700
+obstacle,1000,100,650,1500
+obstacle,550,600,350,20
+obstacle,850,300,200,20
+obstacle,550,150,350,20
+spikes,420,200,10,9
+spikes,470,450,11,9
+spikes,420,700,10,9
+spikes,620,580,250,10
+spikes,620,180,250,11
+spikes,870,330,110,11
+[Level 9]
+obstacle,-100,-20,30,1200
+obstacle,500,-20,30,1200
+obstacle,-20,500,1200,50
+obstacle,400,150,1250,50
+obstacle,-20,-20,1250,50
+spikes,-50,20,10,770
+spikes,470,20,11,770
+[Level 10]
+obstacle,1450,500,200,500
+redField,300,0,350,900
+redField,1000,0,50,1600
+redField,1150,0,50,1600
+spikes,300,785,1150,10
+[Level 11]
+obstacle,1450,500,200,500
+obstacle,150,750,50,100
+redField,0,0,1600,500
+spikes,230,785,1200,10
+spikes,800,500,10,300
+spikes,750,500,11,300
+[Level 12]
+obstacle,1600,900,100,100
